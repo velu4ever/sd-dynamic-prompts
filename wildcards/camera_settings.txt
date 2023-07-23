@@ -1,0 +1,20 @@
+Frontal Camera Angle,85mm Lens,Low ISO,Soft, Diffused Light type of Lighting
+Profile Camera Angle,50mm Lens,Medium ISO,Side Lighting, Natural Ambiance type of Lighting
+Three-Quarter Camera Angle,35mm Lens,Medium-High ISO,Rembrandt Lighting type of Lighting
+Head-On Camera Angle,105mm Lens,Low ISO,Natural Light, Backlit type of Lighting
+High Angle Camera Angle,50mm Lens,Low-Medium ISO,Overhead Softbox type of Lighting
+Low Angle Camera Angle,24mm Lens,Low-Medium ISO,Upward Spot Light type of Lighting
+Eye-Level Camera Angle,85mm Lens,Low-Medium ISO,Ring Light, Fill Flash type of Lighting
+Bird's Eye Camera Angle,20mm Lens,Low-Medium ISO,Window Light, Reflectors type of Lighting
+Worm's Eye Camera Angle,14mm Lens,Medium ISO,Colored Gels, Off-Camera Flash type of Lighting
+Over-the-Shoulder Camera Angle,50mm Lens,Medium-High ISO,Beauty Dish, V-Flat type of Lighting
+Direct Gaze Camera Angle,85mm Lens,Low-Medium ISO,Softbox, Natural Light type of Lighting
+Three-Point Perspective Camera Angle,35mm Lens,Low-Medium ISO,Key Light, Hair Light, Fill Light type of Lighting
+Candid Camera Angle,50mm Lens,Low-Medium ISO,Available Light, No Flash type of Lighting
+Environmental Camera Angle,24mm Lens,Medium ISO,Soft Natural Light, Reflector type of Lighting
+Close-Up Camera Angle,105mm Lens,Low ISO,Macro Lens, Natural Light type of Lighting
+Wide Shot Camera Angle,24mm Lens,Low-Medium ISO,Scenic Background, Golden Hour type of Lighting
+Half-Length Camera Angle,85mm Lens,Medium ISO,Off-Camera Flash, Umbrella type of Lighting
+Extreme Close-Up Camera Angle,135mm Lens,Low ISO,Bokeh, Backlit type of Lighting
+Dynamic Angles Camera Angle,50mm Lens,Low-Medium ISO,Strobe Lighting, Light Modifiers type of Lighting
+Dutch Angle (Tilted) Camera Angle,35mm Lens,Medium ISO,Creative Gels, Multiple Light Setup type of Lighting

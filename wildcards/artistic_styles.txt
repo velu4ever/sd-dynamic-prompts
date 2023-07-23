@@ -1,0 +1,19 @@
+Leonardo da Vinci,Renaissance,Realistic, Subtle shading, Emotional depth,Oil paints, Tempera, Canvas, Wood, Sfumato,Painting
+Vincent van Gogh,Post-Impressionism,Vibrant colors, Expressive brushwork, Intense emotion,Oil paints, Impasto, Brushes, Palette knives,Painting
+Pablo Picasso,Cubism,Geometric forms, Collage, Multi-viewpoints,Oil paints, Collage, Brushes, Various materials,Painting
+Michelangelo Buonarroti,High Renaissance,Classical beauty, Realism, Marble sculptures,Marble, Fresco, Chisels, Brushes,Sculpture
+Claude Monet,Impressionism,Loose brushstrokes, Vivid colors, Plein air painting,Oil paints, Canvas, Brushes, En plein air,Painting
+Auguste Rodin,Realism and Symbolism,Emotional depth, Bronze sculptures, Traditional tools,Bronze, Marble, Clay, Sculpting tools,Sculpture
+Salvador Dalí,Surrealism,Dreamlike imagery, Irrational, Imaginative techniques,Oil paints, Brushes, Imaginative materials,Painting
+Rembrandt van Rijn,Baroque,Chiaroscuro, Emotional lighting, Oils on canvas,Oil paints, Canvas, Wood, Brushes, Palette knives,Painting
+Henri Matisse,Fauvism,Bold colors, Expressive brushwork, Experimentation,Oil paints, Brushes, Bold colors,Painting
+Gustav Klimt,Art Nouveau and Symbolism,Ornamental, Gold leaf, Rich symbolism,Gold leaf, Oil paints, Mixed media,Painting
+Frida Kahlo,Surrealism and Realism,Emotional struggles, Vivid colors, Personal symbolism,Oil paints, Canvas, Mixed media,Painting
+Henri Cartier-Bresson,Street Photography,Candid moments, Geometry, 35mm cameras,35mm cameras, Prime lenses, Composition,Photography
+Georgia O'Keeffe,American Modernism,Abstract nature, Vivid depictions, Oil on canvas,Oil paints, Canvas, Enlarged depictions,Painting
+Jackson Pollock,Abstract Expressionism,Non-representational, Action painting, Drip technique,Enamel paints, Oil paints, Drip techniques,Painting
+Edgar Degas,Impressionism and Realism,Dancers, Movement, Pastels and oils,Pastels, Oil paints, Sculpting tools,Painting
+Wassily Kandinsky,Abstract Art,Colorful abstraction, Oil on canvas,Oil paints, Canvas, Abstract forms,Painting
+René Magritte,Surrealism,Thought-provoking, Precise realism, Oil paints,Oil paints, Realistic techniques,Painting
+Jean-Michel Basquiat,Neo-expressionism,Graffiti-like symbols, Acrylics on canvas,Acrylics, Oil sticks, Markers, Canvas,Painting
+Frida Kahlo,Surrealism and Realism,Emotional struggles, Vivid colors, Personal symbolism,Oil paints, Canvas, Mixed media,Painting

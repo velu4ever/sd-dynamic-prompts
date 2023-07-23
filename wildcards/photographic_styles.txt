@@ -1,0 +1,20 @@
+Ansel Adams,Landscape, Black-and-white,Majestic landscapes, Striking contrast, Breathtaking nature scenes,Large-format camera, Tripod,Gelatin silver prints
+Dorothea Lange,Documentary, Social Realism,Powerful portraits, Human suffering, Heartfelt storytelling,35mm camera, Natural light,Gelatin silver prints
+Henri Cartier-Bresson,Street, Candid,Decisive moments, Candid expressions, Capturing life in motion,35mm camera, Prime lenses,Gelatin silver prints
+Annie Leibovitz,Portraiture, Celebrity,Iconic portraits, Celebrity captures, Dramatic lighting,Medium-format camera, Studio,Digital and Film prints
+Steve McCurry,Photojournalism, Travel,Vibrant cultures, Intimate moments, Global storytelling,35mm camera, Natural light,Gelatin silver prints
+Richard Avedon,Fashion, Portraiture,Avant-garde fashion, Striking portraiture, High-fashion elegance,Medium-format camera, Studio,Gelatin silver prints
+Helmut Newton,Fashion, Erotica,Provocative fashion, Sensual aesthetics, Bold storytelling,35mm camera, Studio lighting,Gelatin silver prints
+Cindy Sherman,Conceptual Self-portraits,Surreal self-portraits, Gender exploration, Disguise and identity,Medium-format camera, Props,Digital and Film prints
+Sebastião Salgado,Documentary, Environmental,Powerful environmental narratives, Humanity's struggles, Breathtaking nature,Medium-format camera, Studio,Gelatin silver prints
+Diane Arbus,Portraiture, Street,Intimate portraits, Marginalized subjects, Unconventional beauty,35mm camera, Available light,Gelatin silver prints
+Yousuf Karsh,Portraiture, Studio,Iconic portraits, Dignified subjects, Timeless elegance,Large-format camera, Studio,Gelatin silver prints
+Man Ray,Surreal, Avant-garde,Dreamlike compositions, Experimental techniques, Artistic innovation,Medium-format camera, Darkroom,Gelatin silver prints
+Edward Weston,Still Life, Nudes,Elegant still life, Graceful nudes, Form and shapes,Large-format camera, Studio,Gelatin silver prints
+Lee Miller,War Correspondent, Surreal,Poignant war photography, Surrealist explorations, Female empowerment,35mm camera, Darkroom,Gelatin silver prints
+Brassai,Night Photography, Street,Capturing Parisian nightlife, Evocative street scenes, Expressive light and shadow,35mm camera, Available light,Gelatin silver prints
+Robert Capa,Photojournalism, War,Fearless war coverage, Intimate moments, Emotive storytelling,35mm camera, Available light,Gelatin silver prints
+Alfred Stieglitz,Pictorialism, Modernism,Artistic pictorialism, Avant-garde modernism, Expressive abstraction,Large-format camera, Darkroom,Gelatin silver prints
+Irving Penn,Fashion, Portraiture,Timeless fashion, Graceful portraiture, Classic elegance,Large-format camera, Studio,Gelatin silver prints
+Nan Goldin,Documentary, Personal,Raw and intimate narratives, LGBTQ+ community, Capturing personal struggles,35mm camera, Available light,Gelatin silver prints
+Andreas Gursky,Contemporary, Large-scale,Monumental compositions, Digital manipulation, Global themes,Large-format digital camera,Digital prints

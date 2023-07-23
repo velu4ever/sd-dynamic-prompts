@@ -1,0 +1,20 @@
+Joy,Sparkling, Bright,Smiling, Radiant,Relaxed, Uplifted
+Sadness,Tearful, Downcast,Frowning, Sorrowful,Slumped, Dejected
+Anger,Piercing, Glaring,Furrowed, Reddened,Tense, Clenched Fists
+Surprise,Wide, Open,O-shaped, Amazed,Startled, Raised Eyebrows
+Fear,Wide, Dilated,Trembling, Anxious,Tense, Hunched Posture
+Disgust,Narrowed, Scornful,Contorted, Repulsed,Curled Lip, Distanced
+Contempt,Cold, Narrowed,Sneering, Disdainful,Raised Chin, Arrogant Stance
+Happiness,Sparkling, Glowing,Beaming, Smiling,Bouncing, Lightfooted
+Surprise,Wide, Astonished,Jaw-dropping, Stunned,Leaning back, Hands on Cheeks
+Confusion,Puzzled, Searching,Baffled, Perplexed,Head Tilted, Furrowed Brow
+Love,Soft, Tender,Affectionate, Blushing,Embracing, Linked Hands
+Embarrassment,Averted, Flushed,Blushing, Sheepish,Covering Face, Shy
+Contentment,Calm, Serene,Peaceful, Satisfied,Relaxed, Hands on Lap
+Guilt,Averting, Downcast,Pained, Remorseful,Hand on Heart, Slouched Posture
+Curiosity,Wide, Inquisitive,Quizzical, Wondering,Leaning forward, Raised Eyebrows
+Frustration,Intense, Glaring,Grimacing, Annoyed,Clenched Jaw, Hands on Hips
+Hope,Bright, Upturned,Optimistic, Hopeful,Standing Tall, Gazing Upward
+Regret,Distant, Reflective,Pensive, Reminiscent,Head Held Low, Hands in Pockets
+Pride,Steady, Self-assured,Smug, Self-satisfied,Chin Up, Arms Crossed
+Gratitude,Warm, Thankful,Grateful, Appreciative,Hands on Heart, Slight Bow
